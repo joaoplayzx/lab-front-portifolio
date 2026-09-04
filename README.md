@@ -40,4 +40,3 @@ Os arquivos de produção ficarão na pasta `dist`.
 - E-mail: jr2809574@gmail.com
 - GitHub: https://github.com/joaoplayzx
 
-Se quiser ajuda para personalizar o conteúdo ou publicar o site, posso ajudar com os próximos passos.
